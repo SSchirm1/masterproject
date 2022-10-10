@@ -26,6 +26,17 @@
                     "action": "SpawnBoard",
                     "isComposite": false,
                     "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "1f14e6d7-646d-4c06-8ef7-912fccd3c08c",
+                    "path": "<OculusTouchController>{LeftHand}/secondaryButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "SpawnBoard",
+                    "isComposite": false,
+                    "isPartOfComposite": false
                 }
             ]
         }
