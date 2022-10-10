@@ -28,7 +28,7 @@ public class BoardSpawnScript : MonoBehaviour
         var rightPos = RightHand.GetComponent<Transform>().position;
        var camRotation = cam.GetComponent<Transform>().rotation;
 
-        //float boardScale = Mathf.Abs(rightPos.x-leftPos.x);
+
         float boardScale = Vector3.Distance(leftPos, rightPos);
 
         Debug.Log("Board in meter" + boardScale);
